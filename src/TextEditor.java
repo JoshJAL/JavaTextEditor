@@ -27,7 +27,6 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-
 public class TextEditor extends JFrame implements ActionListener {
   JTextArea textArea;
   JScrollPane scrollPane;
